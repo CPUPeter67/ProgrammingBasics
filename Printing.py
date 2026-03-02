@@ -1,0 +1,5 @@
+print("I like coding in Python and I enjoy programming.")
+print("The United States of America is a country located in North America.")
+print("The Second World War ended in 1945.")
+print("Micheal Myers is a fictional character.")
+print("The world's first computer was called the ENIAC.") 
